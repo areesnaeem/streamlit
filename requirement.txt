@@ -8,5 +8,5 @@ bokeh
 scipy
 scikit-learn
 statsmodels
-pandas_profiling
+pandas-profiling
 streamlit_pandas_profiling
