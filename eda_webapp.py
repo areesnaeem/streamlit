@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
-# webapp ka title
+# webapp ka title.
 st.markdown('''
 # **Exploratory data analysis web application**
  This app is developed by areed naeem called **EDA App** 
